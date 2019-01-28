@@ -1,0 +1,19 @@
+Q:Is it a traditional pet?
+Q:Does it bark loud?
+A:dog
+Q:Does it move by jumping alone
+A:bunny
+Q:Does it fly
+A:parrot
+A:cat
+Q:Does it swim?
+Q:Does it walk on land
+Q:Does it have a shell
+A:turtle
+A:alligator
+Q:Is it a mammal?
+A:whale
+A:shark
+Q:Is it a farm animal?
+A:goat
+A:fox
